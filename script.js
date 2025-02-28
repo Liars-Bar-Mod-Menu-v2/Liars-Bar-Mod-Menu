@@ -1,0 +1,1 @@
+console.log("Liars Bar Mod Menu is active!");
